@@ -2,7 +2,7 @@ body {
     padding: 0;
     display: block;
     width: 100%;
-    
+    height: 100%;
 }
 
 .hideme {
@@ -17,6 +17,7 @@ body {
 #leftColumn {
     height: 100%;
     float: left;
+    min-height: 85vh;
 }
 
 .menuCaption {

@@ -15,7 +15,6 @@
 <body>
     <div id="header" class="p-2 bg-success text-dark">
         <a href="/" class="HeaderBrand d-flex justify-content-md-center">
-            <img src="/www/images/products/Shop_Logo.png" class="Shop_Logo_Icon">
             <h1 class="p-1">МояАптека</h1>
         </a>
     </div>
